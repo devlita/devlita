@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/devlita/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/devlita/static/js/main.dd411cf5.chunk.js",
+    "main.js.map": "/devlita/static/js/main.dd411cf5.chunk.js.map",
+    "runtime-main.js": "/devlita/static/js/runtime-main.36cdb17d.js",
+    "runtime-main.js.map": "/devlita/static/js/runtime-main.36cdb17d.js.map",
+    "static/js/2.bf51755b.chunk.js": "/devlita/static/js/2.bf51755b.chunk.js",
+    "static/js/2.bf51755b.chunk.js.map": "/devlita/static/js/2.bf51755b.chunk.js.map",
+    "static/js/3.b914ce7d.chunk.js": "/devlita/static/js/3.b914ce7d.chunk.js",
+    "static/js/3.b914ce7d.chunk.js.map": "/devlita/static/js/3.b914ce7d.chunk.js.map",
+    "index.html": "/devlita/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/devlita/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.bf51755b.chunk.js.LICENSE.txt": "/devlita/static/js/2.bf51755b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/devlita/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36cdb17d.js",
+    "static/js/2.bf51755b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.dd411cf5.chunk.js"
+  ]
+}
